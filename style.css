@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    background-color: rgb(238, 255, 233);
+    padding: 20px;
+}
+
+.subdivisionsUl {
+    list-style:circle;
+    padding-top: 0;
+    padding-left: 50px;
+    
+}
